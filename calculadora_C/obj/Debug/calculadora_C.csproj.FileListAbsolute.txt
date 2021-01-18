@@ -1,0 +1,9 @@
+C:\Users\TI\Documents\Visual Studio 2017\Projects\calculadora_C\calculadora_C\bin\Debug\calculadora_C.exe.config
+C:\Users\TI\Documents\Visual Studio 2017\Projects\calculadora_C\calculadora_C\bin\Debug\calculadora_C.exe
+C:\Users\TI\Documents\Visual Studio 2017\Projects\calculadora_C\calculadora_C\bin\Debug\calculadora_C.pdb
+C:\Users\TI\Documents\Visual Studio 2017\Projects\calculadora_C\calculadora_C\obj\Debug\calculadora_C.csprojResolveAssemblyReference.cache
+C:\Users\TI\Documents\Visual Studio 2017\Projects\calculadora_C\calculadora_C\obj\Debug\calculadora_C.frmCalc.resources
+C:\Users\TI\Documents\Visual Studio 2017\Projects\calculadora_C\calculadora_C\obj\Debug\calculadora_C.Properties.Resources.resources
+C:\Users\TI\Documents\Visual Studio 2017\Projects\calculadora_C\calculadora_C\obj\Debug\calculadora_C.csproj.GenerateResource.Cache
+C:\Users\TI\Documents\Visual Studio 2017\Projects\calculadora_C\calculadora_C\obj\Debug\calculadora_C.exe
+C:\Users\TI\Documents\Visual Studio 2017\Projects\calculadora_C\calculadora_C\obj\Debug\calculadora_C.pdb
