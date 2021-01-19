@@ -21,6 +21,7 @@ namespace calculadora_C
             InitializeComponent();
         }
 
+        // botones de números //
         private void btn0_Click(object sender, EventArgs e)
         {
             textPantalla.Text = textPantalla.Text + "0";
@@ -71,6 +72,7 @@ namespace calculadora_C
             textPantalla.Text = textPantalla.Text + "9";
         }
 
+        // botones de funciones //
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             textPantalla.Text = "";
@@ -260,6 +262,8 @@ namespace calculadora_C
         }
         private bool validar_punto(string cadena)
         {
+            /* validar si hay punto */
+
             int largo;
             bool respuesta = false;
 
@@ -278,6 +282,7 @@ namespace calculadora_C
 
         private void btnBorrar_Click(object sender, EventArgs e)
         {
+            // borrar un solo digito
             try
             {
                 int largo;
@@ -315,6 +320,7 @@ namespace calculadora_C
         
         private void calculadora()
         {
+            // Calculos
             switch (signo)
             {
                 case "+":
